@@ -1,3 +1,12 @@
 [submodule "_neural_networks_architectures_course_"]
 	path = _neural_networks_architectures_course_
 	url = https://github.com/j-adamczyk/neural_networks_architectures_course.git
+[submodule "_RWKV_/inspiration/char-rnn"]
+	path = _RWKV_/inspiration/char-rnn
+	url = https://github.com/karpathy/char-rnn.git
+[submodule "_RWKV_/inspiration/nanoGPT"]
+	path = _RWKV_/inspiration/nanoGPT
+	url = https://github.com/karpathy/nanoGPT.git
+[submodule "_RWKV_/inspiration/nanochat"]
+	path = _RWKV_/inspiration/nanochat
+	url = https://github.com/karpathy/nanochat.git
